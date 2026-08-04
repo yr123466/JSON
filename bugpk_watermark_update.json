@@ -4,7 +4,7 @@
   "forceUpdate": false,
   "updateTitle": "发现新版本",
   "updateContent": "1. 修复了接口1解析失败的问题\n2. 新增背景音乐下载功能\n3. 新增视频/图片全屏预览\n4. 新增复制文案功能\n5. 新增版本更新检查\n6. 优化隐私保护\n7. 直接去葫芦侠三楼找楼主更新吧，这里不提交",
-  "downloadUrl": "www.huluxia.com",
+  "downloadUrl": "https://wap.huluxia.com/index.html?v=1",
   "updateTime": "2026-08-05",
   "updateSize": "12.5MB"
 }
