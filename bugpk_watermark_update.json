@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "2.0.0",
   "versionCode": 1,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1. 增三款抖视频接口去除聚合接口\n2.支持作者主页解析 \n3. \n4. \n5. \n6. \n7. 直接去葫芦侠三楼找楼主更新吧，这里不提交",
+  "updateContent": "1. 新增三款某音视频接口\n2.支持某音主页解析 \n3.由于bug接口更新解析慢新版本暂时去除 \n不需要更新可设置关闭检测更新\n5.暂时只在葫芦侠更新",
   "downloadUrl": "https://wap.huluxia.com/index.html?v=1",
-  "updateTime": "2026-08-05",
+  "updateTime": "2026-09-01",
   "updateSize": "12.5MB"
 }
