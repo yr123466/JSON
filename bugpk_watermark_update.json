@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "versionCode": 1,
+  "version": "2.0.1",
+  "versionCode": 201,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1. 新增三款某音视频接口\n2.支持某音主页解析 \n3.由于bug接口更新解析慢新版本暂时去除 \n不需要更新可设置关闭检测更新\n5.暂时只在葫芦侠更新",
+  "updateContent": "1. 适配BUG 全新接口支持33+平台\n2. 新增抖音原画接口，画质更好\n3. 设置可自选解析接口，支持手动填写密钥\n4. 修复更新链接跳转不彻底的问题\n5. 更新弹窗换新样式，修复动图下载",
   "downloadUrl": "https://lkme.cc/8AD/wEWIyXjSe",
-  "updateTime": "2026-09-01",
+  "updateTime": "2026-09-10",
   "updateSize": "12.5MB"
 }
