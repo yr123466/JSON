@@ -3,8 +3,8 @@
   "versionCode": 201,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1. 适配BUG 全新接口支持33+平台\n2. 新增抖音原画接口，画质更好\n3. 设置可自选解析接口，支持手动填写密钥\n4. 修复更新链接跳转不彻底的问题\n5. 更新弹窗换新样式，修复动图下载",
-  "downloadUrl": "https://lkme.cc/8AD/wEWIyXjSe",
+  "updateContent": "1. 适配BUG全新接口支持33+平台\n2. 新增抖音原画接口，画质更好\n3. 设置可自选解析接口，支持手动填写密钥\n4. 旧接口和谐耐心等待修复即可目前测试不影响主页视频解析\n5. 已发布至3L点下载可跳转",
+  "downloadUrl": "https://lkme.cc/8AD/pUbxBq3Te",
   "updateTime": "2026-09-10",
   "updateSize": "12.5MB"
 }
