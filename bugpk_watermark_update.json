@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
-  "versionCode": 201,
+  "version": "2.0.2",
+  "versionCode": 202,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1. 适配BUG全新接口支持33+平台\n2. 新增抖音原画接口，画质更好\n3. 设置可自选解析接口，支持手动填写密钥\n4. 旧接口和谐耐心等待修复即可目前测试不影响主页视频解析\n5. 已发布至3L点下载可跳转",
+  "updateContent": "1. 抖🎵新增主页批量解析下载\n2. 新增下载文件夹自动分类\n3. 新增解析文件软件内预览分享功能\n4. 修复已知bug \n5. 已发布至3L点更新（待审）可跳转",
   "downloadUrl": "https://lkme.cc/8AD/pUbxBq3Te",
-  "updateTime": "2026-09-10",
-  "updateSize": "12.5MB"
+  "updateTime": "2026-09-11",
+  "updateSize": "10.5MB"
 }
