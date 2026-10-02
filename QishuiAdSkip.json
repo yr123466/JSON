@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "versionCode": 101,
+  "versionCode": 1,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
   "updateContent": "1.初步适配a16 \n2. \n3. \n4. 修复已知bug \n5. 已发布至3L点更新（待审）可跳转",
