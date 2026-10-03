@@ -1,10 +1,10 @@
 {
-  "version": "1.1",
-  "versionCode": ≥2,
+  "version": "2.12",
+  "versionCode": 33,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1.初步适配a16 \n2.修复部分机型无法点击 \n3.等待更新 \n4. 修复已知bug \n5. 已发布至3L点更新（待审）可跳转",
+  "updateContent": "1.初步适配a16\n2.修复OCR误识别自身名称\n3.新增无损音质入口OCR兜底\n4.修复已知bug",
   "downloadUrl": "https://lkme.cc/8AD/pUbxBq3Te",
-  "updateTime": "2026-10-1",
-  "updateSize": "10.5MB"
+  "updateTime": "2026-10-04",
+  "updateSize": "49MB"
 }
