@@ -3,7 +3,7 @@
   "versionCode": 236,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1.修复部分识别卡关闭页面（理论）\n2.修复授权后应用内乱点\n3.新增音质入口点击\n4.使用前请在3L查看使用建议\n5.已提交更新\n6.新增本地模板点击\n5.链接暂未上传请3L获取",
+  "updateContent": "1.修复并新增本地模板点击\n2.链接暂未上传请3L获取",
   "downloadUrl": "https:zs.69yr.cn",
   "updateTime": "2026-11-29",
   "updateSize": "50MB"
