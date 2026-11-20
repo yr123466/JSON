@@ -1,10 +1,10 @@
 {
-  "version": "2.36",
-  "versionCode": 236,
+  "version": "2.37",
+  "versionCode": 237,
   "forceUpdate": false,
   "updateTitle": "发现新版本",
-  "updateContent": "1.修复并新增本地模板点击\n2.链接暂未上传请3L获取",
-  "downloadUrl": "https://zs.69yr.cn",
+  "updateContent": "1.修复并新增本地模板点击\n2.有问题邮箱反馈或者 HLX3L 反馈",
+  "downloadUrl": "https://pan.quark.cn/s/916e6a124d15",
   "updateTime": "2026-11-20",
-  "updateSize": "50MB"
+  "updateSize": "30MB"
 }
